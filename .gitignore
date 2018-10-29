@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 dist/*
 target/
 lib_managed/
@@ -7,3 +8,7 @@ project/plugins/project/
 .history
 .cache
 .lib/
+=======
+*.class
+*.log
+>>>>>>> 86ff095e5c4f490e3e9bff60175b61bf9d261879
